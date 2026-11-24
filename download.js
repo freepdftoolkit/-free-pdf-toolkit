@@ -3,7 +3,7 @@
    Recommended: your GitHub Releases "latest" page.
    Example: https://github.com/YOUR_USERNAME/pdf-toolkit/releases/latest
    ============================================================ */
-const DOWNLOAD_URL = "https://reliable-marzipan-9bf0cd.netlify.app/downloads/Free-PDF-Toolkit-v1.0.exe";
+const DOWNLOAD_URL = "https://github.com/freepdftoolkit/-free-pdf-toolkit/releases/latest/download/Free.PDF.Toolkit.v1.0.exe";
 
 document.addEventListener("DOMContentLoaded", function () {
   document.querySelectorAll("[data-download]").forEach(function (el) {

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://reliable-marzipan-9bf0cd.netlify.app/sitemap.xml
+Sitemap: https://freepdftoolkit.github.io/-free-pdf-toolkit/sitemap.xml
