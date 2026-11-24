@@ -1,0 +1,31 @@
+Copyright (c) 2026 freepdftoolkit
+
+ALL RIGHTS RESERVED.
+
+The software known as "Free PDF Toolkit" (hereinafter "the Software"),
+including its source code, compiled executable, user interface, icons,
+documentation and accompanying website content (the "Materials"), is the
+exclusive property of the copyright holder named above.
+
+No person or entity may copy, reproduce, modify, distribute, publish, sell,
+rent, sublicense, or create derivative works of the Software or the
+Materials, in whole or in part, without the prior written permission of
+the copyright holder.
+
+Permission is granted to end users to download and use the compiled
+Software for their own personal, non-commercial use, free of charge.
+
+The Software is provided "AS IS", without warranty of any kind, express
+or implied, including but not limited to the warranties of merchantability
+and fitness for a particular purpose.
+
+--------------------------------------------------------------------------
+Proof of authorship: the complete development history, including dated
+commits and the v1.0 release dated 2026-11-24, is publicly recorded in the
+Git repository at:
+
+    https://github.com/freepdftoolkit/-free-pdf-toolkit
+
+This record constitutes prima facie evidence of authorship and date of
+creation.
+--------------------------------------------------------------------------
