@@ -1,0 +1,31 @@
+* { box-sizing: border-box; }
+body { margin:0; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; color:#1c2330; background:#f7f8fa; line-height:1.65; }
+a { color:#2563eb; }
+.wrap { max-width: 980px; margin:auto; padding:0 20px; }
+header.site { padding:18px 0; border-bottom:1px solid #e5e8ee; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; }
+.logo { font-weight:800; font-size:1.1rem; color:#1c2330; text-decoration:none; }
+nav a { margin-left:16px; color:#556; text-decoration:none; font-size:.9rem; }
+nav a:hover { color:#2563eb; }
+.hero { text-align:center; padding:48px 0 22px; }
+h1 { font-size:2.5rem; margin:0 0 12px; letter-spacing:-1px; }
+h1 span { color:#2563eb; }
+.sub { font-size:1.1rem; color:#556; max-width:650px; margin:0 auto 26px; }
+.btn { display:inline-block; background:#2563eb; color:#fff !important; text-decoration:none; padding:14px 32px; border-radius:10px; font-weight:600; box-shadow:0 6px 18px rgba(37,99,235,.28); }
+.btn:hover { background:#1d4ed8; }
+.note { font-size:.8rem; color:#889; margin-top:10px; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:16px; margin:34px 0; }
+.card { background:#fff; border:1px solid #e5e8ee; border-radius:14px; padding:20px; }
+.card h3 { margin:0 0 6px; font-size:1.05rem; }
+.card p { margin:0; color:#667; font-size:.93rem; }
+.card a { font-size:.9rem; font-weight:600; }
+.panel { background:#fff; border:1px solid #e5e8ee; border-radius:16px; padding:28px; margin:28px 0; }
+.panel h2 { margin-top:0; }
+.steps { counter-reset:s; list-style:none; padding:0; }
+.steps li { position:relative; padding-left:44px; margin-bottom:18px; }
+.steps li::before { counter-increment:s; content:counter(s); position:absolute; left:0; top:2px; width:28px; height:28px; background:#2563eb; color:#fff; border-radius:50%; display:grid; place-items:center; font-size:.85rem; font-weight:700; }
+.faq details { background:#fff; border:1px solid #e5e8ee; border-radius:10px; padding:13px 16px; margin-bottom:10px; }
+.faq summary { cursor:pointer; font-weight:600; }
+.faq p { color:#667; margin:10px 0 0; }
+.cta { text-align:center; padding:26px 0 10px; }
+footer { text-align:center; padding:28px 0 46px; color:#889; font-size:.9rem; border-top:1px solid #e5e8ee; margin-top:40px; }
+footer a { color:#667; margin:0 8px; text-decoration:none; }

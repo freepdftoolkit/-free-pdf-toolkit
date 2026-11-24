@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reliable-marzipan-9bf0cd.netlify.app/sitemap.xml
